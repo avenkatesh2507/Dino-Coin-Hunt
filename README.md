@@ -1,13 +1,15 @@
 # Mini-Game
 
-This is a simple web-based mini-game project. It includes an HTML file, a JavaScript file for game logic, and an assets folder for images or other resources. Test it out!
-[Dino-Coin-Hunt](dino-coin-hunt.vercel.app)
+This is a simple web-based mini-game project. It includes an HTML file, a JavaScript file for game logic, and an assets folder for images or other resources.
+
+## Live Demo
+
+You can play the game online here:
+[dino-coin-hunt.vercel.app](https://dino-coin-hunt.vercel.app)
 
 ## Getting Started
 
 ### Prerequisites
-- Python 3 (for running a local server)
-- A modern web browser
 
 ### Running the Game Locally
 1. Open a terminal and navigate to the project directory:
