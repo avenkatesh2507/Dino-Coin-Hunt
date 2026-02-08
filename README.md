@@ -1,7 +1,8 @@
 # Mini-Game
 
 This is a simple web-based mini-game project. It includes an HTML file, a JavaScript file for game logic, and an assets folder for images or other resources. Test it out!
-dino-coin-hunt-git-main-aparna-venkateshs-projects.vercel.app
+[dino-coin-hunt-git-main-aparna-venkateshs-projects.vercel.app](dino-coin-hunt-git-main-aparna-venkateshs-projects.vercel.app)
+
 ## Getting Started
 
 ### Prerequisites
